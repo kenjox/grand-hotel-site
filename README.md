@@ -1,2 +1,2 @@
-# grand-hotel-site
-Converting a figma design to html and css
+# Grand Hotel
+Converting a figma design to html and css. Maily for learning purpose
